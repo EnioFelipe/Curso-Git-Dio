@@ -1,4 +1,4 @@
-#Este é um projeto simples, apenas para usar as funcionalidade do GitHub, o usuário deve informar 2 dados e o programa deve concatená-los em uma string.
+#Este é um projeto simples, apenas para usar as funcionalidades do GitHub, o usuário deve informar 2 dados e o programa deve concatená-los em uma string.
 
 print("Realizando Cadastro:")
 
